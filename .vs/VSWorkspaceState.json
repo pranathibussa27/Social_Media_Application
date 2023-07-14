@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\client",
+    "\\client\\src",
+    "\\client\\src\\components",
+    "\\client\\src\\components\\InfoCard",
+    "\\client\\src\\components\\ProfileCard",
+    "\\client\\src\\components\\ProfileModal",
+    "\\client\\src\\components\\profileSide"
+  ],
+  "SelectedNode": "\\client\\src\\components\\ProfileCard\\ProfileCard.css",
+  "PreviewInSolutionExplorer": false
+}
